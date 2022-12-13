@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.6.2)
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - SDWebImage (5.13.1):
+    - SDWebImage/Core (= 5.13.1)
+  - SDWebImage/Core (5.13.1)
+  - SkeletonView (1.29.2)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - R.swift
+  - SDWebImage
+  - SkeletonView
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - R.swift
+    - R.swift.Library
+    - SDWebImage
+    - SkeletonView
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  SDWebImage: fb26a455eeda4c7a55e4dcb6172dbb258af7a4ca
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 8b3d485bb591aad0f53988cf92b8e5671482db31
+
+COCOAPODS: 1.11.3
