@@ -1,6 +1,3 @@
-# 62teknologi-senior-frontend-test-rahmat-hidayat
-
-
 # 62teknologi - Senior Frontend Test
 ### Done by _Rahmat Hidayat_
 
